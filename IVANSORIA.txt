@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 IVAN SORIA SOLIS
 407253333
 DIRECCION
+=======
+IVAN SORIA
+407253333
+aqui estuvo pompeyo
+>>>>>>> origin/huarhuachi
